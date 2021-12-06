@@ -1,0 +1,1 @@
+This is an empty file to keep the pdbfiles folder available. The folder is needed to store simulation results.
