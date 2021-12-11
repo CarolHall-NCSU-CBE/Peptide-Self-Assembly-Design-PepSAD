@@ -1,4 +1,0 @@
- THR 
- grade=           1
- aa_lib(          12 )%grade=           2
- They are not equal with each other!
